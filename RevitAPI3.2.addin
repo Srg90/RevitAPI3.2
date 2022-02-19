@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining1\RevitAPI3.2.dll"</Assembly>
+		<AddInId>A08B029C-0C41-4CC8-9ECC-A4E4AD320FD4</AddInId>
+		<FullClassName>RevitAPI3._2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Общая длина труб</Text>
+	</AddIn>
+</RevitAddIns>
